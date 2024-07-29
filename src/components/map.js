@@ -36,7 +36,7 @@ export default function Maps() {
   return (
     <div style={{ height: '50vh', width: '100%' }}>
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyBTYZjL_cO1dqaUTWXPC59GjfoggbAMP4A" }}
+        bootstrapURLKeys={{ key: "Enter_your_Google_API_Key_Here" }}
         center={center}
         zoom={zoom}
         yesIWantToUseGoogleMapApiInternals
